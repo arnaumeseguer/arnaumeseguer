@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnaumeseguer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaumeseguer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">Feel free to take a look on what I've been working on.</p>
 
 ###
 
@@ -27,19 +24,26 @@
 
 ###
 
-<p align="left">Feel free to take a look on what I've been working on.</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://s4.ezgif.com/tmp/ezgif-41b2657516749c.gif"  />
-</div>
+<img align="right" height="300" src="https://s4.ezgif.com/tmp/ezgif-41b2657516749c.gif"  />
 
 ###
 
 <div align="center">
   <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnaumeseguer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaumeseguer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/arnaumeseguer/arnaumeseguer/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,9 +56,5 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/arnaumeseguer/arnaumeseguer/output/snake.svg" alt="Snake animation" />
 
 ###
