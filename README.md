@@ -38,15 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Anaueet">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Anaueet&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
